@@ -1,0 +1,8 @@
+
+Did the extra credit option, so user is able to set number of rows and
+columns and ants and doodlebugs. 
+
+main.cpp is the executing file
+
+just make to create main, then run main which will prompt users for input
+values
